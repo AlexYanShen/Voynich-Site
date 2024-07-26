@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Voynich Manuscript extracted images/text"
-baseurl: "https://mrlemonhead1234.github.io/Voynich-Site/" # the subpath of your site, e.g. /blog
+baseurl: "/Voynich-Site" # the subpath of your site, e.g. /blog
 url: "https://MRLEMONHEAD1234.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
