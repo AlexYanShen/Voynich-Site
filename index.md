@@ -14,11 +14,11 @@ Author: Alex Shen
 
 ## Gallery
 <span style="font-size: 2em;">Page 7 :<br>
-![Image 1]({{ site.baseurl }}assets/images/VoynichManuscript-007_plant.jpg)
-![Image 2]({{ site.baseurl }}assets/images/Screenshot 2024-07-22 171608.png)
+![Image 1]({{ site.baseurl }}/assets/images/VoynichManuscript-007_plant.jpg)
+![Image 2]({{ site.baseurl }}/assets/images/Screenshot 2024-07-22 171608.png)
 
 <span style="font-size: 2em;">Page 11:<br>
-![Image 3]({{ site.baseurl }}assets/images/VoynichManuscript-011_plant.jpg)
-![Image 4]({{ site.baseurl }}assets/images/Screenshot 2024-07-22 171627.png):<br><br>
+![Image 3]({{ site.baseurl }}/assets/images/VoynichManuscript-011_plant.jpg)
+![Image 4]({{ site.baseurl }}/assets/images/Screenshot 2024-07-22 171627.png):<br><br>
 <span style="font-size: 0.5em;">Credits:Takeshi Takahashi, Jorge Stolfi, and Gabriel Landini
 
